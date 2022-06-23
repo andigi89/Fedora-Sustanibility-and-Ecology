@@ -1,7 +1,8 @@
 # Fedora-Sustanibility-and-Ecology
 An upcoming project how to improve and measure energy consumption on Fedora. Which apps can used? Which methods are needed? 
-The protocol can be found  on:
-https://etherpad.opensuse.org/p/Project_Fedora_Sustainibility%2FEcology
+
+# Protocol
+Protocols are existing. But they are only avaible for the current participants of the first meeting in respect of the right of privacy!
 
 A Roadmap can be found here:
 https://hackmd.io/p1361v3wTCWFbdhIG7BJOA
